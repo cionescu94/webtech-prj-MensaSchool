@@ -1,0 +1,14 @@
+{
+  "name": "mensa-prj",
+  "version": "0.0.0",
+  "description": "Mensa Test Example Website",
+  "main": "server.js",
+  "repository": "",
+  "author": "Ionescu Cristian",
+  "dependencies": {
+    "async": "~0.2.8",
+    "cors": "^2.8.1",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
+}
